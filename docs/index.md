@@ -2,7 +2,7 @@
 
 欢迎加我微信，实时方向内推，提供咨询指导！
 
-![HyperJ WeChat](docs/assets/images/HyperJ.jpeg)
+![HyperJ WeChat](./assets/images/HyperJ.jpeg)
 
 ## 岗位内推
 
